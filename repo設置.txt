@@ -1,4 +1,5 @@
 git config --global user.email "XXX"
 git config --global user.name "XXX"
 git remote add origin %1
+git branch -M main
 pause
